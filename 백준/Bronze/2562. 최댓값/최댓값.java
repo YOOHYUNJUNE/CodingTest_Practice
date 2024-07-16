@@ -17,6 +17,7 @@ public class Main {
     	int number = sc.nextInt();
 //        System.out.println(i + "번 째 수 : " + number);
         
+
         if (number > maxNumber) {
         	maxNumber = number;
         	index = i;
